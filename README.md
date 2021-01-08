@@ -1,2 +1,2 @@
-# shopping-and-Landing-page
-shopping and landding page 
+# shopping-and-Landing-page project-3
+
